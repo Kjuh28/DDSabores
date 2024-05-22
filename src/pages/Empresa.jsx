@@ -2,7 +2,7 @@ import { Card } from "../components/Card";
 
 export function Empresa(){
     return(
-        <div className="font-sacramento text-amber_900">
+        <div className="text-amber_900">
             <h1 className="font-bold text-3xl md:text-5xl text-center  pt-8 pb-8">Alguns de nossos Doces</h1>
             <div id='empresa' className="w-full flex flex-wrap wrap justify-center items-center gap-4 pb-8">
                 <Card 
