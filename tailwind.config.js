@@ -20,7 +20,9 @@ export default {
       amber_950: '#451a03',
     },
     fontFamily:{
-      'sacramento':['Sacramento', 'cursive','normal']
+      'sacramento':['Sacramento', 'cursive','normal'],
+      'sans': ['ui-sans-serif', 'system-ui'],
+      'serif': ['ui-serif', 'Georgia']
     }
   },
   plugins: [],
