@@ -2,8 +2,8 @@ import { Link } from 'react-router-dom'
 
 export function Navbar(){
     return(
-        <nav className='bg-amber_100 p-5 bg-white mb-1 shadow md:flex md:items-center'>
-            <div className='flex w-full md:justify-between pl-20 pr-10'>
+        <nav className='bg-amber_100 sm:p-5 mb-1 shadow md:flex md:items-center'>
+            <div className='flex w-full md:justify-between sm:pl-20 sm:pr-10'>
                 <Link to='/' ><img src='../src/assets/ds_logo.png' className='max-w-24' /></Link>
 
                 <ul className='md:flex md:items-center'>
