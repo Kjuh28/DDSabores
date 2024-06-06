@@ -20,7 +20,8 @@ export default {
       amber_950: '#451a03',
     },
     fontFamily:{
-      'sacramento':['Sacramento', 'cursive','normal']
+      'sacramento':['Sacramento', 'cursive','normal'],
+      'sans':['ui-sans-serif', 'system-ui', 'sans-serif', "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"]
     }
   },
   plugins: [],

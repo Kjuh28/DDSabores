@@ -10,6 +10,7 @@ export function Empresa(){
                     cardTitle={'Leite Ninho'} 
                     txt='Aqui vai uma demonstração de ovo de colher com calda de chocolate coberta de morango e pedaços de chocolate branco e leite ninho'
                 /> 
+                
                 <Card 
                     src={'../src/assets/doces/doce_2.png'} 
                     cardTitle={'Chocolate com Castanhas'} 
@@ -22,8 +23,8 @@ export function Empresa(){
                 />                 
                 <Card 
                     src={'../src/assets/doces/doce_4.png'} 
-                    cardTitle={'Calda de Caramelo'} 
-                    txt='Aqui vai uma demonstração de ovo de colher com calda de chocolate coberta de morango e pedaços de chocolate branco e leite ninho'
+                    cardTitle={'Mousse de Maracujá'} 
+                    txt='Casquinha de chocolate meio amargo e recheio de mousse de maracujá personalizado🥰'
                 />
                 <Card 
                     src={'../src/assets/doces/doce_1.png'} 
