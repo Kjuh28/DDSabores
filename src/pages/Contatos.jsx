@@ -21,7 +21,7 @@ export function Contatos(){
                         <label className="text-2xl sm:text-4xl w-full">Telefone </label>
                         <input type="number" className="w-full sm:p-2 mt-2 mb-2 border rounded" />
                         <label className="text-2xl sm:text-4xl w-full">Mensagem:</label>
-                        <textarea className="w-full sm:p-2 mt-2 mb-2 border rounded" placeHolder="Digite um comentario"></textarea>
+                        <textarea className="w-full p-2 mt-2 mb-2 border rounded" placeHolder="Digite um comentario"></textarea>
                 </form>
             </div>
             
