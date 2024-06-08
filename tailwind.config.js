@@ -22,7 +22,9 @@ export default {
     fontFamily:{
       'sacramento':['Sacramento', 'cursive','normal'],
       'sans': ['ui-sans-serif', 'system-ui'],
-      'serif': ['ui-serif', 'Georgia']
+      'serif': ['ui-serif', 'Georgia'],
+      'pacifico':['Pacifico', 'cursive', '400','normal'],
+      'handlee':['Handlee', 'cursive', '400', 'normal']
     }
   },
   plugins: [],

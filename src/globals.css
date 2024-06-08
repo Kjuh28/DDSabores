@@ -1,4 +1,6 @@
 *{
-    font-size: 1.25rem;
+    font-family: 'handlee';
+}
+h1, span, label{
     font-family: 'sacramento';
 }
